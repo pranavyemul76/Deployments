@@ -2,7 +2,7 @@ const express = require("express");
 const cors = require("cors");
 const path = require("path");
 const port = process.env.PORT || 8080;
-const host = process.env.HOST.VERCEL_URL;
+const host = process.env.VERCEL_URL;
 const mongoose = require("mongoose");
 const Router = require("./Route");
 require("dotenv").config();
