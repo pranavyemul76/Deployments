@@ -14,10 +14,6 @@
 - Make Order with COD / Online Payment
 - View Orders History
 
-## Demo
-
-https://deployment-beta-two.vercel.app
-
 ## 🚀 About Me
 
 I'm a full stack developer...
